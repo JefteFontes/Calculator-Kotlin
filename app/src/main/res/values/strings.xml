@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="title_calcu">Calculator</string>
+    <string name="default_resu">0</string>
+    <string name="btn_clear">C</string>
+    <string name="btn_division">/</string>
+    <string name="btn_mult">*</string>
+    <string name="btn_subtra">-</string>
+    <string name="btn_sum">+</string>
+    <string name="btn_equal">=</string>
+    <string name="btn_num0">0</string>
+    <string name="btn_num1">1</string>
+    <string name="btn_num2">2</string>
+    <string name="btn_num3">3</string>
+    <string name="btn_num4">4</string>
+    <string name="btn_num5">5</string>
+    <string name="btn_num6">6</string>
+    <string name="btn_num7">7</string>
+    <string name="btn_num8">8</string>
+    <string name="btn_num9">9</string>
+    <string name="validation_no_div_zero">Não existe divisão por zero</string>
+</resources>
